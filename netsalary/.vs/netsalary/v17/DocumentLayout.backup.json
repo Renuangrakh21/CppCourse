@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renus\\source\\repos\\netsalary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3A978-D125-4BF3-976A-294A5A0A47D9}|netsalary\\netsalary.vcxproj|C:\\Users\\renus\\source\\repos\\netsalary\\netsalary\\netsalary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7E3A978-D125-4BF3-976A-294A5A0A47D9}|netsalary\\netsalary.vcxproj|solutionrelative:netsalary\\netsalary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "netsalary.cpp",
+              "DocumentMoniker": "C:\\Users\\renus\\source\\repos\\netsalary\\netsalary\\netsalary.cpp",
+              "RelativeDocumentMoniker": "netsalary\\netsalary.cpp",
+              "ToolTip": "C:\\Users\\renus\\source\\repos\\netsalary\\netsalary\\netsalary.cpp",
+              "RelativeToolTip": "netsalary\\netsalary.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-28T10:27:14.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

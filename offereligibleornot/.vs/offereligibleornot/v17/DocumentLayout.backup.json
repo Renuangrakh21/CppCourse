@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renus\\source\\repos\\offereligibleornot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCEEB6D-C6EE-44A7-954F-732D1FEB2B8B}|offereligibleornot\\offereligibleornot.vcxproj|C:\\Users\\renus\\source\\repos\\offereligibleornot\\offereligibleornot\\offereligibleornot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BCEEB6D-C6EE-44A7-954F-732D1FEB2B8B}|offereligibleornot\\offereligibleornot.vcxproj|solutionrelative:offereligibleornot\\offereligibleornot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "offereligibleornot.cpp",
+              "DocumentMoniker": "C:\\Users\\renus\\source\\repos\\offereligibleornot\\offereligibleornot\\offereligibleornot.cpp",
+              "RelativeDocumentMoniker": "offereligibleornot\\offereligibleornot.cpp",
+              "ToolTip": "C:\\Users\\renus\\source\\repos\\offereligibleornot\\offereligibleornot\\offereligibleornot.cpp*",
+              "RelativeToolTip": "offereligibleornot\\offereligibleornot.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T06:47:47.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

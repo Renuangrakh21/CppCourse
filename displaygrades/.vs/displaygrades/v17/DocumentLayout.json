@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renus\\source\\repos\\displaygrades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18645C34-EB79-40EF-9F08-DD9772ABB923}|displaygrades\\displaygrades.vcxproj|C:\\Users\\renus\\source\\repos\\displaygrades\\displaygrades\\displaygrades.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18645C34-EB79-40EF-9F08-DD9772ABB923}|displaygrades\\displaygrades.vcxproj|solutionrelative:displaygrades\\displaygrades.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "displaygrades.cpp",
+              "DocumentMoniker": "C:\\Users\\renus\\source\\repos\\displaygrades\\displaygrades\\displaygrades.cpp",
+              "RelativeDocumentMoniker": "displaygrades\\displaygrades.cpp",
+              "ToolTip": "C:\\Users\\renus\\source\\repos\\displaygrades\\displaygrades\\displaygrades.cpp",
+              "RelativeToolTip": "displaygrades\\displaygrades.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T09:49:35.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

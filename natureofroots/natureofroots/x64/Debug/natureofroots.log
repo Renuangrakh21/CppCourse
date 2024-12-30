@@ -1,0 +1,4 @@
+﻿  natureofroots.cpp
+C:\Users\renus\source\repos\natureofroots\natureofroots\natureofroots.cpp(16,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\renus\source\repos\natureofroots\natureofroots\natureofroots.cpp(17,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  natureofroots.vcxproj -> C:\Users\renus\source\repos\natureofroots\x64\Debug\natureofroots.exe

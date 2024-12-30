@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renus\\source\\repos\\discounted bill amount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12886C92-F471-4A1C-B0A6-C8AFFA49B282}|discounted bill amount\\discounted bill amount.vcxproj|C:\\Users\\renus\\source\\repos\\discounted bill amount\\discounted bill amount\\discounted bill amount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12886C92-F471-4A1C-B0A6-C8AFFA49B282}|discounted bill amount\\discounted bill amount.vcxproj|solutionrelative:discounted bill amount\\discounted bill amount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "discounted bill amount.cpp",
+              "DocumentMoniker": "C:\\Users\\renus\\source\\repos\\discounted bill amount\\discounted bill amount\\discounted bill amount.cpp",
+              "RelativeDocumentMoniker": "discounted bill amount\\discounted bill amount.cpp",
+              "ToolTip": "C:\\Users\\renus\\source\\repos\\discounted bill amount\\discounted bill amount\\discounted bill amount.cpp",
+              "RelativeToolTip": "discounted bill amount\\discounted bill amount.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T10:13:31.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

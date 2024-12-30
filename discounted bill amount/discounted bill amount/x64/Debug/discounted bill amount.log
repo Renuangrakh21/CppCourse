@@ -1,0 +1,5 @@
+﻿  discounted bill amount.cpp
+C:\Users\renus\source\repos\discounted bill amount\discounted bill amount\discounted bill amount.cpp(18,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\renus\source\repos\discounted bill amount\discounted bill amount\discounted bill amount.cpp(24,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\renus\source\repos\discounted bill amount\discounted bill amount\discounted bill amount.cpp(31,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  discounted bill amount.vcxproj -> C:\Users\renus\source\repos\discounted bill amount\x64\Debug\discounted bill amount.exe

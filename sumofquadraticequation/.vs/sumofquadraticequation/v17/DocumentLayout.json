@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renus\\source\\repos\\sumofquadraticequation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C7742B-CBA1-48EE-8772-F2611C14E25E}|sumofquadraticequation\\sumofquadraticequation.vcxproj|C:\\Users\\renus\\source\\repos\\sumofquadraticequation\\sumofquadraticequation\\sumofquadraticequation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C7742B-CBA1-48EE-8772-F2611C14E25E}|sumofquadraticequation\\sumofquadraticequation.vcxproj|solutionrelative:sumofquadraticequation\\sumofquadraticequation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sumofquadraticequation.cpp",
+              "DocumentMoniker": "C:\\Users\\renus\\source\\repos\\sumofquadraticequation\\sumofquadraticequation\\sumofquadraticequation.cpp",
+              "RelativeDocumentMoniker": "sumofquadraticequation\\sumofquadraticequation.cpp",
+              "ToolTip": "C:\\Users\\renus\\source\\repos\\sumofquadraticequation\\sumofquadraticequation\\sumofquadraticequation.cpp",
+              "RelativeToolTip": "sumofquadraticequation\\sumofquadraticequation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T12:11:09.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  displaygrades.cpp
+C:\Users\renus\source\repos\displaygrades\displaygrades\displaygrades.cpp(17,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  displaygrades.vcxproj -> C:\Users\renus\source\repos\displaygrades\x64\Debug\displaygrades.exe
