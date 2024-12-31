@@ -1,0 +1,2 @@
+﻿  dynamicdeclaration.cpp
+C:\workspace\CppCourse\dynamicdeclaration\dynamicdeclaration\dynamicdeclaration.cpp(12,19): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'

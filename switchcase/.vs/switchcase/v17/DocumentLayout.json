@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\switchcase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAE9003-C517-4152-9D26-27156784D827}|switchcase\\switchcase.vcxproj|C:\\workspace\\CppCourse\\switchcase\\switchcase\\switchcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAAE9003-C517-4152-9D26-27156784D827}|switchcase\\switchcase.vcxproj|solutionrelative:switchcase\\switchcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "switchcase.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\switchcase\\switchcase\\switchcase.cpp",
+              "RelativeDocumentMoniker": "switchcase\\switchcase.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\switchcase\\switchcase\\switchcase.cpp",
+              "RelativeToolTip": "switchcase\\switchcase.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T07:10:45.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
