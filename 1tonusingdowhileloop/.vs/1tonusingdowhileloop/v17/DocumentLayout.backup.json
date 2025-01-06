@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\1tonusingdowhileloop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AFB094-D208-44DD-8624-60C1AADA2570}|1tonusingdowhileloop\\1tonusingdowhileloop.vcxproj|C:\\workspace\\CppCourse\\1tonusingdowhileloop\\1tonusingdowhileloop\\1tonusingdowhileloop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4AFB094-D208-44DD-8624-60C1AADA2570}|1tonusingdowhileloop\\1tonusingdowhileloop.vcxproj|solutionrelative:1tonusingdowhileloop\\1tonusingdowhileloop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1tonusingdowhileloop.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\1tonusingdowhileloop\\1tonusingdowhileloop\\1tonusingdowhileloop.cpp",
+              "RelativeDocumentMoniker": "1tonusingdowhileloop\\1tonusingdowhileloop.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\1tonusingdowhileloop\\1tonusingdowhileloop\\1tonusingdowhileloop.cpp*",
+              "RelativeToolTip": "1tonusingdowhileloop\\1tonusingdowhileloop.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T10:30:59.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

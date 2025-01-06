@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\addingmarrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{405DDCC1-F764-4C26-ADCD-E2F1CF971B3C}|addingmarrays\\addingmarrays.vcxproj|C:\\workspace\\CppCourse\\addingmarrays\\addingmarrays\\addingmarrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{405DDCC1-F764-4C26-ADCD-E2F1CF971B3C}|addingmarrays\\addingmarrays.vcxproj|solutionrelative:addingmarrays\\addingmarrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "addingmarrays.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\addingmarrays\\addingmarrays\\addingmarrays.cpp",
+              "RelativeDocumentMoniker": "addingmarrays\\addingmarrays.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\addingmarrays\\addingmarrays\\addingmarrays.cpp*",
+              "RelativeToolTip": "addingmarrays\\addingmarrays.cpp*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T07:04:16.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
