@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\arraydeclaration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7838A96D-36D9-48CE-AD6C-AF1797BF0ED4}|arraydeclaration\\arraydeclaration.vcxproj|C:\\workspace\\CppCourse\\arraydeclaration\\arraydeclaration\\arraydeclaration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7838A96D-36D9-48CE-AD6C-AF1797BF0ED4}|arraydeclaration\\arraydeclaration.vcxproj|solutionrelative:arraydeclaration\\arraydeclaration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arraydeclaration.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\arraydeclaration\\arraydeclaration\\arraydeclaration.cpp",
+              "RelativeDocumentMoniker": "arraydeclaration\\arraydeclaration.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\arraydeclaration\\arraydeclaration\\arraydeclaration.cpp",
+              "RelativeToolTip": "arraydeclaration\\arraydeclaration.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T06:04:51.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

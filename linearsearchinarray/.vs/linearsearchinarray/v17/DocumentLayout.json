@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\linearsearchinarray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAF1269-072E-4D70-BDE2-03B9CDFD718F}|linearsearchinarray\\linearsearchinarray.vcxproj|C:\\workspace\\CppCourse\\linearsearchinarray\\linearsearchinarray\\linearsearchinarray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAF1269-072E-4D70-BDE2-03B9CDFD718F}|linearsearchinarray\\linearsearchinarray.vcxproj|solutionrelative:linearsearchinarray\\linearsearchinarray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "linearsearchinarray.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\linearsearchinarray\\linearsearchinarray\\linearsearchinarray.cpp",
+              "RelativeDocumentMoniker": "linearsearchinarray\\linearsearchinarray.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\linearsearchinarray\\linearsearchinarray\\linearsearchinarray.cpp",
+              "RelativeToolTip": "linearsearchinarray\\linearsearchinarray.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T08:14:40.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

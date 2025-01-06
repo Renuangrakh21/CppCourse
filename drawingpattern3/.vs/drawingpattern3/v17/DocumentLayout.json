@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\drawingpattern3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBBB99F-C0AC-45E9-BB44-D0AEEAAA316F}|drawingpattern3\\drawingpattern3.vcxproj|C:\\workspace\\CppCourse\\drawingpattern3\\drawingpattern3\\drawingpattern3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DBBB99F-C0AC-45E9-BB44-D0AEEAAA316F}|drawingpattern3\\drawingpattern3.vcxproj|solutionrelative:drawingpattern3\\drawingpattern3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "drawingpattern3.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\drawingpattern3\\drawingpattern3\\drawingpattern3.cpp",
+              "RelativeDocumentMoniker": "drawingpattern3\\drawingpattern3.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\drawingpattern3\\drawingpattern3\\drawingpattern3.cpp",
+              "RelativeToolTip": "drawingpattern3\\drawingpattern3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T07:28:31.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

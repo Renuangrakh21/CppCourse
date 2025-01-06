@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\drawing pattern 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F795CC3-175D-4269-9804-5B077BCE8044}|drawing pattern 2\\drawing pattern 2.vcxproj|C:\\workspace\\CppCourse\\drawing pattern 2\\drawing pattern 2\\drawing pattern 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F795CC3-175D-4269-9804-5B077BCE8044}|drawing pattern 2\\drawing pattern 2.vcxproj|solutionrelative:drawing pattern 2\\drawing pattern 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "drawing pattern 2.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\drawing pattern 2\\drawing pattern 2\\drawing pattern 2.cpp",
+              "RelativeDocumentMoniker": "drawing pattern 2\\drawing pattern 2.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\drawing pattern 2\\drawing pattern 2\\drawing pattern 2.cpp",
+              "RelativeToolTip": "drawing pattern 2\\drawing pattern 2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T07:24:03.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

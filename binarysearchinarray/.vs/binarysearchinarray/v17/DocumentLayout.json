@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\binarysearchinarray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F87D13-FF00-4A22-8B23-7515A1BC1A48}|binarysearchinarray\\binarysearchinarray.vcxproj|C:\\workspace\\CppCourse\\binarysearchinarray\\binarysearchinarray\\binarysearchinarray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2F87D13-FF00-4A22-8B23-7515A1BC1A48}|binarysearchinarray\\binarysearchinarray.vcxproj|solutionrelative:binarysearchinarray\\binarysearchinarray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binarysearchinarray.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\binarysearchinarray\\binarysearchinarray\\binarysearchinarray.cpp",
+              "RelativeDocumentMoniker": "binarysearchinarray\\binarysearchinarray.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\binarysearchinarray\\binarysearchinarray\\binarysearchinarray.cpp",
+              "RelativeToolTip": "binarysearchinarray\\binarysearchinarray.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T12:43:33.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
