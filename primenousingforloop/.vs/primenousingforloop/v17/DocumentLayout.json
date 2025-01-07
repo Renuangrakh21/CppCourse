@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\primenousingforloop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7C9829-37EE-4873-A136-11BF7F7E6FD1}|primenousingforloop\\primenousingforloop.vcxproj|C:\\workspace\\CppCourse\\primenousingforloop\\primenousingforloop\\primenousingforloop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F7C9829-37EE-4873-A136-11BF7F7E6FD1}|primenousingforloop\\primenousingforloop.vcxproj|solutionrelative:primenousingforloop\\primenousingforloop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "primenousingforloop.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\primenousingforloop\\primenousingforloop\\primenousingforloop.cpp",
+              "RelativeDocumentMoniker": "primenousingforloop\\primenousingforloop.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\primenousingforloop\\primenousingforloop\\primenousingforloop.cpp",
+              "RelativeToolTip": "primenousingforloop\\primenousingforloop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T05:44:31.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
