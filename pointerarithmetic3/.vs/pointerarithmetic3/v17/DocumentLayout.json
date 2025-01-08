@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\pointerarithmetic3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32A49C31-CD6D-485A-A41F-8D7626F1BAFC}|pointerarithmetic3\\pointerarithmetic3.vcxproj|C:\\workspace\\CppCourse\\pointerarithmetic3\\pointerarithmetic3\\pointerarithmetic3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32A49C31-CD6D-485A-A41F-8D7626F1BAFC}|pointerarithmetic3\\pointerarithmetic3.vcxproj|solutionrelative:pointerarithmetic3\\pointerarithmetic3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pointerarithmetic3.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\pointerarithmetic3\\pointerarithmetic3\\pointerarithmetic3.cpp",
+              "RelativeDocumentMoniker": "pointerarithmetic3\\pointerarithmetic3.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\pointerarithmetic3\\pointerarithmetic3\\pointerarithmetic3.cpp",
+              "RelativeToolTip": "pointerarithmetic3\\pointerarithmetic3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T11:15:51.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\reference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C26254E2-6D60-4256-ADF6-7E325A21D6C1}|reference\\reference.vcxproj|C:\\workspace\\CppCourse\\reference\\reference\\reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C26254E2-6D60-4256-ADF6-7E325A21D6C1}|reference\\reference.vcxproj|solutionrelative:reference\\reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reference.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\reference\\reference\\reference.cpp",
+              "RelativeDocumentMoniker": "reference\\reference.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\reference\\reference\\reference.cpp",
+              "RelativeToolTip": "reference\\reference.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T11:56:05.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

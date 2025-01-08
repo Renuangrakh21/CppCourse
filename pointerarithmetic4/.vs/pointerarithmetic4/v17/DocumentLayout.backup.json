@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\pointerarithmetic4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F07DCC9-220C-4F87-B904-61E5DDF63A30}|pointerarithmetic4\\pointerarithmetic4.vcxproj|C:\\workspace\\CppCourse\\pointerarithmetic4\\pointerarithmetic4\\pointerarithmetic4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F07DCC9-220C-4F87-B904-61E5DDF63A30}|pointerarithmetic4\\pointerarithmetic4.vcxproj|solutionrelative:pointerarithmetic4\\pointerarithmetic4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pointerarithmetic4.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\pointerarithmetic4\\pointerarithmetic4\\pointerarithmetic4.cpp",
+              "RelativeDocumentMoniker": "pointerarithmetic4\\pointerarithmetic4.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\pointerarithmetic4\\pointerarithmetic4\\pointerarithmetic4.cpp",
+              "RelativeToolTip": "pointerarithmetic4\\pointerarithmetic4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T11:19:09.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
