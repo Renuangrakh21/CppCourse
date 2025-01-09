@@ -1,0 +1,2 @@
+﻿  stringfunctions.cpp
+C:\workspace\CppCourse\stringfunctions\stringfunctions\stringfunctions.cpp(16,1): error C4700: uninitialized local variable 'a' used
