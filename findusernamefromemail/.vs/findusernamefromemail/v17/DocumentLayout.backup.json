@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CppCourse\\findusernamefromemail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3127A112-9312-4341-BC4B-AB69B47A10F2}|findusernamefromemail\\findusernamefromemail.vcxproj|C:\\workspace\\CppCourse\\findusernamefromemail\\findusernamefromemail\\findusernamefromemail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3127A112-9312-4341-BC4B-AB69B47A10F2}|findusernamefromemail\\findusernamefromemail.vcxproj|solutionrelative:findusernamefromemail\\findusernamefromemail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "findusernamefromemail.cpp",
+              "DocumentMoniker": "C:\\workspace\\CppCourse\\findusernamefromemail\\findusernamefromemail\\findusernamefromemail.cpp",
+              "RelativeDocumentMoniker": "findusernamefromemail\\findusernamefromemail.cpp",
+              "ToolTip": "C:\\workspace\\CppCourse\\findusernamefromemail\\findusernamefromemail\\findusernamefromemail.cpp*",
+              "RelativeToolTip": "findusernamefromemail\\findusernamefromemail.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T13:54:39.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
