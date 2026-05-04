@@ -1,0 +1,42 @@
+server.py
+
+from xmlrpc.server import SimpleXMLRPCServer
+import threading
+
+# Factorial function with validation
+def factorial(n):
+    if not isinstance(n, int):
+        return "Error: Input must be integer"
+    if n < 0:
+        return "Error: Negative number not allowed"
+    
+    result = 1
+    for i in range(2, n + 1):
+        result *= i
+    return result
+
+# Function to run server
+def start_server():
+    server = SimpleXMLRPCServer(("localhost", 8000), logRequests=True, allow_none=True)
+    server.register_function(factorial, "calculate_factorial")
+    print("Server started on http://localhost:8000/")
+    server.serve_forever()
+
+# Run server in background thread (IMPORTANT for Jupyter)
+server_thread = threading.Thread(target=start_server)
+server_thread.daemon = True
+server_thread.start()
+
+client.py
+
+import xmlrpc.client
+
+# Connect to server
+server = xmlrpc.client.ServerProxy("http://localhost:8000/", allow_none=True)
+
+try:
+    n = int(input("Enter a number: "))
+    result = server.calculate_factorial(n)
+    print(f"Factorial of {n} is: {result}")
+except Exception as e:
+    print("Error:", e)
