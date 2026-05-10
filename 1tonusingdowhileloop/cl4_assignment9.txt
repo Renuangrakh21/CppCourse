@@ -1,0 +1,85 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+def map_reduce_with_pandas(input_file):
+    # ---------------- LOAD DATA ----------------
+    df = pd.read_csv(input_file)
+
+    print("Dataset Loaded Successfully!\n")
+    print("First 5 Rows of Dataset:")
+    print(df.head())
+
+    # ---------------- MAP PHASE ----------------
+    # Filter deceased passengers
+    deceased = df[df['Survived'] == 0]
+
+    print("\nKey Value Pairs.")
+
+    key_value_pairs = []
+
+    for _ , row in deceased.iterrows():
+
+        pair = (row['Sex'] , 1)
+
+        key_value_pairs.append(pair)
+
+    for pair in key_value_pairs[:15]:
+        print(pair)
+
+    # ---------------- REDUCE PHASE ----------------
+
+    # 1. Gender-based casualty count (MAIN REQUIREMENT)
+    gender_casualties = deceased['Sex'].value_counts()
+
+    # 2. Average age of deceased by gender
+    avg_age_by_gender = deceased.groupby('Sex')['Age'].mean()
+
+    # 3. Class-wise deaths by gender
+    class_by_gender = deceased.groupby('Sex')['Pclass'].value_counts()
+
+    # 4. Survival comparison by gender (extra analysis)
+    survival_by_gender = df.groupby('Sex')['Survived'].value_counts()
+
+    # ---------------- OUTPUT ----------------
+    print("\n===== Gender-based Casualties =====")
+    print(gender_casualties)
+
+    print("\n===== Average Age of Deceased by Gender =====")
+    print(avg_age_by_gender)
+
+    print("\n===== Deceased Count by Gender and Class =====")
+    print(class_by_gender)
+
+    print("\n===== Survival Analysis by Gender =====")
+    print(survival_by_gender)
+
+    # ---------------- VISUALIZATION ----------------
+
+    # 1. Bar chart: Gender-based casualties
+    plt.figure()
+    gender_casualties.plot(kind='bar')
+    plt.title("Casualties by Gender")
+    plt.xlabel("Gender")
+    plt.ylabel("Number of Deaths")
+    plt.show()
+
+    # 2. Bar chart: Average age by gender
+    plt.figure()
+    avg_age_by_gender.plot(kind='bar')
+    plt.title("Average Age of Deceased by Gender")
+    plt.xlabel("Gender")
+    plt.ylabel("Age")
+    plt.show()
+
+    # 3. Bar chart: Female vs Male deaths by class
+    plt.figure()
+    class_by_gender.unstack().plot(kind='bar')
+    plt.title("Deceased Count by Gender and Class")
+    plt.xlabel("Gender")
+    plt.ylabel("Count")
+    plt.show()
+
+
+# ---------------- RUN PROGRAM ----------------
+input_file = "titanic_dataset.csv"   # Keep your CSV file in same folder
+map_reduce_with_pandas(input_file)
